@@ -1,0 +1,13 @@
+# Server version 0.08 running on 10.0.0.232:8123
+# Game ID: 14
+# Board class: hus.HusBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Thu Mar 03 11:11:27 PST 2016
+# Player 1: Player-0, 'xxxxxxxxx', running on localhost
+# Player 2: Player-1, 'xxxxxxxxx', running on localhost
+START Player-0 xxxxxxxxx
+START Player-1 xxxxxxxxx
+PIT 0 0
+GAMEOVER TIMEOUT WINNER 0
+# Game ended: Thu Mar 03 11:12:26 PST 2016
